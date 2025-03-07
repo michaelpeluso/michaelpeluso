@@ -1,39 +1,32 @@
 # Hi, I'm Michael
 
+
+![GitHub](https://img.shields.io/badge/Website-181717?style=flat&logo=github&logoColor=white) 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) 
+![Handshake](https://img.shields.io/badge/Handshake-1E4E79?style=flat&logo=handshake&logoColor=white)
+
 I'm a grad student at Georgia Tech pursuing their prestigious Master's of Computer Science program. I recently graduated early with Honors from NJIT with a Bachelor's degree in Information Technology and minors in both Computer Science and Web & Mobile Development. I have recent industry experience as a Software Developer at ASRC Federal and GameRun.ai.
 
 I am passionate about delivering meaningful software solutions within significant technology-focused initiatives, though my free time is dedicated to persoanl development, like pursuing industry-recognized certifications and exploring computer science literature. 
 
-## About Me
+<hr />
 
-[![](https://visitor-badge.laobi.icu/badge?page_id=michaelpeluso.michaelpeluso)](https://visitor-badge.laobi.icu/badge?page_id=michaelpeluso.michaelpeluso)
-[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:michaelpeluso@gmail.com)
-[![](https://img.shields.io/github/stars/michaelpeluso?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=michaelpeluso&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-[![](https://img.shields.io/github/followers/michaelpeluso?color=27da6b&logo=Handshake)](https://github.com/michaelpeluso?tab=followers)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&background=333333)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white&background=333333)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&background=333333) 
+![Java](https://img.shields.io/badge/Java-f89820?style=flat&logo=java&logoColor=white&background=333333) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white&background=333333) 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&background=333333) 
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white&background=333333) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white&background=333333) 
 
-## Technology Stack
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&background=333333) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&background=333333) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&background=333333) 
+![Oracle SQL Developer](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logoColor=white&background=333333) 
+![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat&logo=postgresql&logoColor=white&background=333333) 
 
 
-## Stats
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelpeluso&theme=dark&include_all_commits=true&count_private=true&layout=compact&exclue_repo=The-Cartographer&hide=ShaderLab" alt="michaelpeluso" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=michaelpeluso&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="michaelpeluso" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelpeluso&theme=material-palenight&hide_border=false" alt="michaelpeluso" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelpeluso&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="michaelpeluso" /></p>
-
-![](https://github-profile-trophy.vercel.app/?username=michaelpeluso&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C952%20hrs%2033%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 2 Contributions in the Year 2025
- > 
-> 📦 131.7 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 56 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
