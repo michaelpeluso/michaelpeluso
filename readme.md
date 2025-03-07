@@ -6,9 +6,14 @@
 ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) 
 ![Handshake](https://img.shields.io/badge/Handshake-1E4E79?style=flat&logo=handshake&logoColor=white)
 
-I'm a grad student at Georgia Tech pursuing their prestigious Master's of Computer Science program. I recently graduated early with Honors from NJIT with a Bachelor's degree in Information Technology and minors in both Computer Science and Web & Mobile Development. I have recent industry experience as a Software Developer at ASRC Federal and GameRun.ai.
+I'm a grad student at Georgia Tech pursuing their prestigious Master's of Computer Science program. I's super passionate and driven to deliver impactful software solutions within significant, technology-focused initiatives. I recently graduated early with Honors from NJIT with a Bachelor's degree in Information Technology and minors in both Computer Science and Web & Mobile Development. I have recent industry experience as a Software Developer at ASRC Federal and GameRun.ai. My free time is dedicated to persoanl development, like pursuing industry-recognized certifications and exploring computer science literature. 
 
-I am passionate about delivering meaningful software solutions within significant technology-focused initiatives, though my free time is dedicated to persoanl development, like pursuing industry-recognized certifications and exploring computer science literature. 
+### Highlights
+- Optimized AI models for NASA satellite solutions
+- Pursuing a Master's in Computer Science at Georgia Tech
+- Earned a Bachelor's in Information Technology from NJIT
+- Graduated early with Honors, earning 2 minors
+- Secured 5 tech internships
 
 <hr />
 
