@@ -1,10 +1,10 @@
 # Hi, I'm Michael
 
 
-![GitHub](https://img.shields.io/badge/Website-181717?style=flat&logo=github&logoColor=white) 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) 
-![Handshake](https://img.shields.io/badge/Handshake-1E4E79?style=flat&logo=handshake&logoColor=white)
+[![GitHub](https://img.shields.io/badge/Website-181717?style=flat&logo=github&logoColor=white)]([https://github.com](https://michaelpeluso.github.io/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mfpel29@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelpeluso5/)
+[![Handshake](https://img.shields.io/badge/Handshake-1E4E79?style=flat&logo=handshake&logoColor=white)]([https://handshake.org](https://njit.joinhandshake.com/profiles/bdzs5d))
 
 I'm a grad student at Georgia Tech pursuing their prestigious Master's of Computer Science program. I's super passionate and driven to deliver impactful software solutions within significant, technology-focused initiatives. I recently graduated early with Honors from NJIT with a Bachelor's degree in Information Technology and minors in both Computer Science and Web & Mobile Development. I have recent industry experience as a Software Developer at ASRC Federal and GameRun.ai. My free time is dedicated to persoanl development, like pursuing industry-recognized certifications and exploring computer science literature. 
 
