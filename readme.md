@@ -1,4 +1,4 @@
-# Hi, I'm Michael
+# 👋 Hi, I'm Michael
 
 
 [![GitHub](https://img.shields.io/badge/Website-181717?style=flat&logo=github&logoColor=white)](https://michaelpeluso.github.io/)
