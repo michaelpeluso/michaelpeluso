@@ -6,14 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelpeluso5/)
 [![Handshake](https://img.shields.io/badge/Handshake-d4fb54?style=flat&logo=handshake&logoColor=black)](https://njit.joinhandshake.com/profiles/bdzs5d)
 
-I'm a grad student at Georgia Tech pursuing its prestigious Master's of Computer Science program. I's super passionate and driven to deliver impactful software solutions within significant, technology-focused initiatives. I recently graduated early with Honors from NJIT with a Bachelor's degree in Information Technology and minors in both Computer Science and Web & Mobile Development. I have recent industry experience as a Software Developer at ASRC Federal and GameRun.ai. My free time is dedicated to persoanl development, like pursuing industry-recognized certifications and exploring computer science literature. 
-
-### Highlights
-- Optimized AI models for NASA satellite solutions
-- Pursuing a Master's in Computer Science at Georgia Tech
-- Earned a Bachelor's in Information Technology from NJIT
-- Graduated early with Honors, earning 2 minors
-- Secured 5 tech internships
+I'm a grad student at Georgia Tech pursuing its prestigious Master's of Computer Science program, and recently earned my Bachelor's from NJIT in IT/CS.
 
 <hr />
 
